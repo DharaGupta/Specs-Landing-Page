@@ -16,7 +16,7 @@ const ProductCard = forwardRef(({cart, onAddToCart, onRemoveFromCart }, ref) => 
 
                     <div className="imagenCart">
                        <img 
-                        src = {`/${product.image}`}
+                        src = {product.image}
                         alt = {product.name}
                         className="productImage"
                        />
