@@ -2,35 +2,35 @@
     "productsData": [
         {
             "id": "1",
-            "image": "../image/GLASSES 1.png",
+            "image": "image/Glasses 1.png",
             "name": "LINK2 X-M",
             "category": "INTELLIGENT GLASSES",
             "price": "// $324 USD"
         },
         {
             "id": "2",
-            "image": "../image/GLASSES 2.png",
+            "image": "image/Glasses 2.png",
             "name": "CONNECT2 X-M",
             "category": "INTELLIGENT GLASSES",
             "price": "// $488 USD"
         },
         {
             "id": "3",
-            "image": "../image/GLASSES 3.png",
+            "image": "image/Glasses 3.png",
             "name": "SYNC2 X-series",
             "category": "INTELLIGENT GLASSES",
             "price": "// $389 USD"
         },
         {
             "id": "4",
-            "image": "../image/GLASSES 4.png",
+            "image": "image/Glasses 4.png",
             "name": "SKYZ A-U",
             "category": "CONNECT GLASSES",
             "price": "// $675 USD"
         },
         {
             "id": "5",
-            "image": "../image/GLASSES 5.png",
+            "image": "image/Glasses 5.png",
             "name": "SONY W-XWE",
             "category": "CONNECT GLASSES",
             "price": "// $433 USD"
