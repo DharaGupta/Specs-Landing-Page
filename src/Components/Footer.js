@@ -21,7 +21,7 @@ let validationErrors = {};
 const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
 if(!formData.email){
-  validationErrors.email = "EMAIL IS REQUIRED";
+  validationErrors.email = "EMAIL IS REQUIRED!!";
 }
 else if(!emailPattern.test(formData.email)){
   validationErrors.email = "PLEASE ENTER VALID EMAIL";
